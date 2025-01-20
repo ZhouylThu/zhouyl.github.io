@@ -7,7 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Yanglin Zhou is an Assistant Research Professor at the State Key Laboratory of Power System Operation and Control (SKL-PSOC), Tsinghua University. He also serves as Director of the Power Energy Storage Efficient Integration Technology Research Center (PES-EITC), Wuxi Institute of Applied Technology, Tsinghua University. He also serves as Executive Director of the Institute of Information Energy and Green Intelligent Computing (iEGIC), Tsinghua Sichuan Energy Internet Research Institute. Before joining in SKL-PSOC, he was a Post-Doctoral Researcher at the Department of Electrical and Engineering, Tsinghua University (Co-advised by Professor [Lin Cheng](https://www.eea.tsinghua.edu.cn/faculties/chenglin.htm)). He received his Ph.D. Degree in Communications and Information Systems, University of Chinese Academy of Sciences (UCAS) and Joint Training with ShanghaiTech University in 2020 (advised by Professors [Yang Yang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Yang/yyiot) and [Song Ci](https://www.eea.tsinghua.edu.cn/faculties/sci.htm)).  
+
+He is broadly interested in Distributed energy management and green communication technology, large-scale electrochemical energy storage system integration and reliability improvement technology. He has published many papers in top-tier conferences and journals such as GLOBECOM, ICC, e-Energy, PES-GM. Additionally, he has discovered numerous vulnerabilities in various industry professional organizations such as IEEE Comsoc/PES. He was awarded the Best Paper Award at IWCMC 2018, ACDC 2024.
+
+Contact
+======
+Address: West Main Building #3-107, Tsinghua University, Beijing, 100084, China
+Tel: +86-10-62770045
+Email: zhouylstu@tsinghua.edu.cn
+
+News
+======
+1. [GM’25] July. 2025, our botnet flow detection paper accepted by GM’25. Congratulations, Jiazhao!
+
+
+
+5. This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
